@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-* [tutorial](/tutorial)
+* [tutorial](battlebot_fjernkontroll_tutorial/tutorial)
 
 ## Rediger dette prosjektet ![Bygg statusmerke](https://github.com/olauk/battlebot_fjernkontroll_tutorial/workflows/MakeCode/badge.svg)
 
