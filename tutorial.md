@@ -74,3 +74,10 @@ input.onButtonPressed(Button.AB, function () {
     radio.sendNumber(0)
 })
 ```
+### Steg 7
+For at vi skal kunne kommunisere med riktig micro:bit er det viktig at både fjernkontroll og mottaker er på samme radiogruppe.   
+Hent ``||radio:sett radiogruppe||`` fra radio og plasser i ved start. Sett radiogruppe til et nummer som ingen av de andre gruppene bruker. 
+
+```blocks
+radio.setGroup(xx)
+```
