@@ -1,14 +1,9 @@
 
 > Åpne denne siden på [https://olauk.github.io/battlebot_fjernkontroll_tutorial/](https://olauk.github.io/battlebot_fjernkontroll_tutorial/)
 
-## Bruk som utvidelse
+## Tutorials
 
-Dette kodeområdet kan bli lagt til som en **utvidelse** i MakeCode.
-
-* åpne [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klikk på **Nytt prosjekt**
-* klikk på **Utvidelser** i menyen under tannhjulet
-* søk etter **https://github.com/olauk/battlebot_fjernkontroll_tutorial** og importér
+* [tutorial](/tutorial)
 
 ## Rediger dette prosjektet ![Bygg statusmerke](https://github.com/olauk/battlebot_fjernkontroll_tutorial/workflows/MakeCode/badge.svg)
 
